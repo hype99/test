@@ -1,6 +1,6 @@
 <?php
 $get = $_GET['get'];
-$mpdUrl = 'https://linearjitp-playback.astro.com.my/dash-wv/linear/' . $get;
+$mpdUrl = 'https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/' . $get;
 
 $mpdheads = [
   'http' => [
